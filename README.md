@@ -1,5 +1,11 @@
 # 💫 About Me:
-Sou desenvolvedor Backend com Python/Django e curso Análise e Desenvolvimento de Sistemas pela UNINASSAU.<br>Desenvolvo aplicações web e APIs REST com Python e framework Django.<br>Tenho experiência com bancos de dados relacionais como PostgreSQL e MySQL, além de conhecimentos em containerização com Docker e deploy em ambiente Linux utilizando Nginx e Gunicorn.<br>Também aplico boas práticas como Design Patterns, testes unitários com Pytest e testes funcionais com Selenium.<br>Atualmente, estou em busca da minha primeira oportunidade como desenvolvedor back-end, onde eu possa contribuir com soluções reais, aprender com profissionais mais experientes e continuar evoluindo na área.<br>
+Desenvolvedor Back-End Python com experiência profissional e prática no desenvolvimento de APIs REST utilizando FastAPI e Django REST Framework. 
+Possuo conhecimentos em arquitetura de aplicações, autenticação, integração com bancos de dados relacionais, testes automatizados, conteinerização com Docker, versionamento com Git e pipelines de CI/CD.
+Atualmente curso Análise e Desenvolvimento de Sistemas. Busco contribuir no desenvolvimento de soluções escaláveis, seguras e de alta performance.
+
+Stack: Python, FastAPI, Django, Django REST Framework, Pydantic, SQLAlchemy Async, Alembic, PostgreSQL, Docker, Docker Compose, Git, GitHub Actions, CI/CD, Pytest e deploy com Fly.io.
+
+Conhecimentos Paralelos: JavaScript, TypeScript, Node.js, HTML e CSS.
 
 
 ## 🌐 Socials:
